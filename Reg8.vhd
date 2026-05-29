@@ -18,7 +18,7 @@ begin
 
     process(clk, reset)
     begin
-        if reset = '1' then
+        if reset = '0' then
             reg <= "00000000";
 
         elsif rising_edge(clk) then

@@ -108,9 +108,9 @@ begin
     MINHA_ULA : ULA
     port map(
 
-        A => Ent1,
+        A =>  regA_out, --Ent1,
 
-        B => Ent2,
+        B => regB_out,  --Ent2,
 
         opcode => opcode,
 
