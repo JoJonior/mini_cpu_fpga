@@ -6,9 +6,14 @@
 # FPGA Cyclone IV
 ![Foto do FPGA](imgs/FPGA.jpeg)
 
+# Video Demostrativo das Operações
+
+▶️ **[Clique aqui para assistir à demonstração completa do projeto (1 min)](https://www.youtube.com/watch?v=4Y4b5IOoBLA)**
 
 # Diagrama do  Circuito (RtlViewer)
 ![Diagrama completo do circuito](imgs/DiagramaCompleto.jpeg)
+
+
 
 # Pinagem (Print)
 ![Pinagem usada](imgs/PINOUT.png)
